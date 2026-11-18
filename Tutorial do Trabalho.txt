@@ -1,0 +1,18 @@
+Detalhes da Entrega
+Antonio_Marcos_Silvade_Oliveira_bigdata.zip: 
+Pacote compactado contendo a hierarquia exata de pastas e arquivos prontos para entrega ou descompactação.
+
+
+trabalho_bigdata.ipynb: 
+Notebook Jupyter estruturado com todas as 8 etapas do trabalho 
+(Inspeção, Preparação, Análise e Gráficos com Pandas, PySpark DataFrame, Spark SQL, HDFS, Auditoria de ML e exportação),
+ pronto para execução linear de cima para baixo.
+
+
+README.md:
+ Documentação profissional do projeto contendo identificação, objetivo, tecnologias, instruções de execução e principais conclusões.
+
+
+resultado/resumo_regioes.csv: 
+Arquivo CSV gerado diretamente a partir do dataset vendas_bigdata_2026.csv após a limpeza e validação das regras de negócio
+. (Observação: o nome e número da sua matrícula esta no campo indicado dentro do README.md).
